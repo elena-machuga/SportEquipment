@@ -1,0 +1,6 @@
+A002, Gloves, ACCESSORY, 0.3
+A003, KneesProtection, ACCESSORY, 0.8
+F004, Skis, FACILITY, 2.0
+F002, Rollers, FACILITY, 1.0
+F001, Bike, FACILITY, 2.5
+F003, Skate, FACILITY, 1.5
